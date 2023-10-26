@@ -37,7 +37,7 @@
             //botao de alerta personalizado                  
             Swal.fire(
                 'Copiado',
-                'Seu Texto ja Pode ser colado com Ctrl + v',
+                'Seu Texto ja Pode ser colado',
                 'info'
               )
         })
