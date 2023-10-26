@@ -84,7 +84,7 @@
     }
     }
 
-/*     /funçao para descriptografa o texto */
+/*     /funçao para descriptografar o texto */
     function desencripta(){
 
         textoareainput = document.getElementById("textoarea1").value;
@@ -121,7 +121,7 @@
 
     }
 
-//funcoes para mudar cor da pagina
+//funcoes para mudar cor da pagina modificando as variaveis no css
 
     function cormatrix(){
         document.documentElement.style.setProperty("--cor-primaria", "#dffddb");
